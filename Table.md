@@ -36,8 +36,8 @@
 
 <div style="text-align: center;">
 
-![Imagen 1.1. Barra de Navegación luego de haber iniciado sesión.](./Images/ImageEj.png)
+![Imagen 1.1. Barra de Navegación luego de haber iniciado sesión.](./Images/EjGit.png)
 
 </div>
 
-<p align="center" style="font-size: 15px; font-style: italic;">Imagen 1.1. Barra de Navegación luego de haber iniciado sesión.</p>
+<p align="center" style="font-size: 15px; font-style: italic;">GIT</p>
