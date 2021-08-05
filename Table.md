@@ -27,3 +27,17 @@
 
 <p align="center" style="font-size: 15px; font-style: italic; ">Imagen Prueba</p>
 
+<p align="center" style="font-size: 15px; font-style: italic; ">Imagen</p>
+
+<br>
+<br>
+<br>
+
+
+<div style="text-align: center;">
+
+![Imagen 1.1. Barra de Navegación luego de haber iniciado sesión.](./Images/ImageEj.png)
+
+</div>
+
+<p align="center" style="font-size: 15px; font-style: italic;">Imagen 1.1. Barra de Navegación luego de haber iniciado sesión.</p>
