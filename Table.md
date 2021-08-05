@@ -25,6 +25,5 @@
 ![Imagen Prueba](./Images/ImageEj.png)
 
 
-<p style="font-size: 15px; font-style: italic;">Imagen Prueba</p>
-
+<p style="font-size: 15px; font-style: italic; text-align: center;">Imagen Prueba</p>
 </div>
