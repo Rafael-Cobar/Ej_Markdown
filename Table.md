@@ -27,7 +27,7 @@
 
 <p align="center" style="font-size: 15px; font-style: italic; ">Imagen Prueba</p>
 
-<p align="center" style="font-size: 15px; font-style: italic; ">Imagen</p>
+<p align="center" style="font-size: 15px; font-style: italic;">Imagen</p>
 
 <br>
 <br>
