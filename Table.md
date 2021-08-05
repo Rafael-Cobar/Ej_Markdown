@@ -21,9 +21,9 @@
 
 <div style="text-align: center;">
 
-
 ![Imagen Prueba](./Images/ImageEj.png)
 
+</div>
 
 <p style="font-size: 15px; font-style: italic; text-align: center;">Imagen Prueba</p>
-</div>
+
