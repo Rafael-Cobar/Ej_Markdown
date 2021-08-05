@@ -19,7 +19,7 @@
 
 <br><br><br>
 
-<div style="text-align: center;">
+<div align="center">
 
 ![Imagen Prueba](./Images/ImageEj.png)
 
@@ -34,7 +34,7 @@
 <br>
 
 
-<div style="text-align: center;">
+<div align="center">
 
 ![Imagen 1.1. Barra de Navegación luego de haber iniciado sesión.](./Images/EjGit.png)
 
