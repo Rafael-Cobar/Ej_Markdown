@@ -1,4 +1,8 @@
-<h1 style="font-size: 40px; font-weight: bold; text-align: center"> Tablas e Imagenes Centradas </h1>
+<h1 align="center" style="font-size: 40px; font-weight: bold;"> Tablas e Imagenes Centradas </h1>
+
+
+<h4 align="center" style="font-size: 18px; font-weight: bold;"> Tablas e Imagenes Centradas </h4>
+
 
 <br><br><br>
 
