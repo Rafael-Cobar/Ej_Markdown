@@ -24,6 +24,7 @@
 
 ![Imagen Prueba](./Images/ImageEj.png)
 
-*Imagen Prueba*
+
+<p style="font-size: 15px; font-style: italic;">Imagen Prueba</p>
 
 </div>
